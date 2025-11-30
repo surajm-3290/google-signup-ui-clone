@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Sign Up</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="#">
+        <fieldset>
+            <center><img src="googlr-removebg-preview.png" height="35px"></center>
+            <center><h3>Sign Up</h3></center>
+            <center>
+                <p>Use your Google Account. The account will be added to this device and available to other Google apps.</p>
+            </center>
+            <center><a href="#">Learn more about using your account</a></center>
+            <br>
+            <center><input type="text" placeholder="Email or phone"></center>
+            <br>
+            <center><input type="password" placeholder="Enter Password"></center>
+            <br>
+            <a href="#">Forgot email?</a>
+            <br><br>
+            <a href="#">Create account</a>
+            <div class="submit-container">
+                <input type="submit" value="Submit" class="submit-btn">
+            </div>
+        </fieldset>
+    </form>
+</body>
+</html>
