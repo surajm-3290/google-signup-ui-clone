@@ -54,8 +54,3 @@ This project helps in:
 ## 👨‍💻 Author
 **Suraj Maurya**  
 Frontend Developer (Beginner)  
-
----
-
-## ⭐ If you like this project  
-Give the repo a **star** on GitHub!  
